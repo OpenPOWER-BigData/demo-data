@@ -7,7 +7,7 @@
 6;35;"management";"single";"tertiary";"no";747;"no";"no";"cellular";23;"feb";141;2;176;3;"failure";"no"
 7;36;"self-employed";"married";"tertiary";"no";307;"yes";"no";"cellular";14;"may";341;1;330;2;"other";"no"
 8;39;"technician";"married";"secondary";"no";147;"yes";"no";"cellular";6;"may";151;2;-1;0;"unknown";"no"
-9;41;"entrepreneur";"married";"tertiary";"no";"yes";"no";"unknown";14;"may";57;2;-1;0;"unknown";"no"
+9;41;"entrepreneur";"married";"tertiary";"no";221;"yes";"no";"unknown";14;"may";57;2;-1;0;"unknown";"no"
 10;43;"services";"married";"primary";"no";-88;"yes";"yes";"cellular";17;"apr";313;1;147;2;"failure";"no"
 11;39;"services";"married";"secondary";"no";9374;"yes";"no";"unknown";20;"may";273;1;-1;0;"unknown";"no"
 12;43;"admin.";"married";"secondary";"no";264;"yes";"no";"cellular";17;"apr";113;2;-1;0;"unknown";"no"
